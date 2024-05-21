@@ -63,7 +63,7 @@ Este livro é uma excelente escolha para quem deseja compreender melhor os funda
 
 # Como esse repositorio vai funcionar
 
-aqui vou postar alguns codigos que se basearam nos exercicios e nos exemplos abordados no livro, mas fiz apenas para brincar e entender mais sobre cada exercicio e algoritmos, nada melhor que a pratica para aprender mais sober cada conceito.
+Aqui vou postar alguns codigos que será feito somente em JavaScritp se basearam nos exercicios e nos exemplos abordados no livro, mas fiz apenas para brincar e entender mais sobre cada exercicio e conceito abordado. Nada melhor que a pratica para absorver cada conceito.
 
 -enjoy!
 🫰🏻

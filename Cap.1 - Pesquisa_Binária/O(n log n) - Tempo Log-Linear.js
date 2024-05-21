@@ -1,5 +1,5 @@
 function mergeSort(arr) {
-    if (arr.length > 1) {
+    if (arr.length > 0) {
         const mid = Math.floor(arr.length / 2);
         const leftHalf = arr.slice(0, mid);
         const rightHalf = arr.slice(mid);
@@ -12,7 +12,7 @@ function mergeSort(arr) {
             if (leftHalf[i] < rightHalf[j]) {
                 arr[k] = leftHalf[i];
                 i++;
-            } else {
+            } else { 
                 arr[k] = rightHalf[j];
                 j++;
             }

@@ -5,9 +5,9 @@ function sum(n){
     if(n.length == 0) return 0
     return n[0] + sum(n.slice(1));
 }
-const arr = [1,2,3,4,5,6,7,8,9,10,11,12]
-const array = sum(arr);
-console.log(array);
+const arr1 = [1,2,3,4,5,6,7,8,9,10,11,12]
+const array1 = sum(arr1);
+console.log(array1);
 // //SLICE
 // //em JS o slice tem a função de criar um array novo array copiando o array original.
 // // para esse exercicio o o slice funciona da seguinte forma
@@ -29,9 +29,9 @@ function nItem(n) {
     if (n.length === 0) return 0
      return n.length //conta quantos item tem em um array
 }
-const arrr = [1,2,3,4,5,6,7,8,9,10]
-const array = nItem(arrr);
-console.log(array);
+const arrr2 = [1,2,3,4,5,6,7,8,9,10]
+const array2 = nItem(arrr2);
+console.log(array2);
 
 //3 - Encontre o valor mais alto em uma lista
 
@@ -69,9 +69,9 @@ function binarySearch(arr, target, start, end) {
     return binarySearch(arr, target, mid + 1, end);
 }
 
-const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const array3 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const target = 6;
-const result = binarySearch(array, target, 0, array.length - 1);
+const result = binarySearch(array3, target, 0, array3.length - 1);
 console.log(result);
 
 

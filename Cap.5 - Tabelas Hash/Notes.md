@@ -209,6 +209,4 @@ SHA (Secure Hash Algorithm) é uma família de funções hash criptográficas pr
 
 As funções SHA garantem a integridade e segurança dos dados. Embora não sejam comumente usadas em tabelas hash convencionais devido ao custo computacional, são essenciais em contextos onde a segurança é crítica.
 
----
-
-Este material fornece uma visão geral das tabelas hash, suas aplicações e algumas considerações importantes para o seu uso eficaz.
+ 🙋🏻 obs: Esse conteúdo é muito extenso e bastante denso levando muitas horas de estudo aqui está uddma breve introdução sobre este tema mas ainda não está nem perto de ser razoável 🪧

@@ -33,8 +33,3 @@ Se você procurar um vendedor de mangas em toda a sua rede, cada aresta (a conex
 Além disso, também será mantida uma lista com as pessoas já verificadas. Adicionar uma pessoa à lista leva um tempo constante: O(1). Fazer isso para cada pessoa terá um tempo de execução O(número de pessoas) no total.
 
 Portanto, a pesquisa em largura tem tempo de execução O(número de pessoas + número de arestas), que é frequentemente escrito como O(V+A) (V para número de vértices, A para número de arestas).
-
----
-
-Este capítulo fornece uma visão detalhada da pesquisa em largura, suas aplicações e considerações importantes para seu uso eficaz.
-

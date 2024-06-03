@@ -65,6 +65,12 @@ Este livro é uma excelente escolha para quem deseja compreender melhor os funda
 
 Aqui vou postar alguns codigos que será feito somente em JavaScritp se basearam nos exercicios e nos exemplos abordados no livro, mas fiz apenas para brincar e entender mais sobre cada exercicio e conceito abordado. Nada melhor que a pratica para absorver cada conceito.
 
+Um detalhe muito importante em qualquer aprendizado é a importância de criar e fazer as coisas da sua própria mente!
+Estou seguindo o roteiro do livro, mas alguns algoritmos que estão nesse repositório são de minha autoria. Utilizo o ChatGPT somente para me auxiliar na construção dos algoritmos e recomendo fortemente que você, que chegou a esse repositório, faça o mesmo!
+Fazendo dessa forma, aprendi mais sobre a linguagem que escolhi estudar, no caso desse repositório, o JavaScript, e a estrutura de como são desenvolvidos os algoritmos e as peculiaridades da linguagem. Recomendo fortemente que faça o mesmo!!!
+
+Quando se lê um algoritmo, se entende o que ele faz. Quando se estuda um algoritmo executando, debugando passo a passo e fazendo anotações, se aprende como ele funciona. Quando se faz um algoritmo, você transcende.
+
 -enjoy!
 🫰🏻
 

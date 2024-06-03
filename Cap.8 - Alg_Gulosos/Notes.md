@@ -41,5 +41,3 @@ Para aprofundar o conhecimento sobre algoritmos gulosos, explore os seguintes re
 3. [Canonical coin systems - greedy algorithms](https://gist.github.com/tommyod/bdd13a83d3577634b91b79b1c00bce14): Explica como os algoritmos gulosos são usados para resolver o problema de troco em sistemas de moedas canônicos.
 4. [DijkstraOnMaps](https://github.com/shivansh1012/DijkstraOnMaps): Implementação do algoritmo de Dijkstra usando abordagem gulosa.
 5. [PathPlanner](https://github.com/walid-git/PathPlanner): Planejamento de caminhos utilizando algoritmos gulosos para encontrar a rota mais curta.
-
-Esses repositórios fornecem exemplos práticos e implementações de algoritmos gulosos, oferecendo uma excelente base para estudo e aplicação dessa técnica.

@@ -1,6 +1,3 @@
-
-
-
 let dp_table_blue = ["b", "l", "u", "e"];
 let dp_table_clues = ["c", "l", "u", "e", "s"];
 let dp_table = Array.from({ length: dp_table_clues.length }, () => Array(dp_table_blue.length).fill(0));

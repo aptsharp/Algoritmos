@@ -22,5 +22,7 @@ Vamos considerar um exemplo clássico para entender a programação dinâmica: o
 O algoritmo de Levenshtein calcula a distância de edição entre duas strings, que é o número mínimo de operações necessárias para transformar uma string na outra. As operações permitidas são inserção, deleção e substituição de caracteres.
 
 https://github.com/hiddentao/fast-levenshtein
+
 https://github.com/wolfgarbe/SymSpell
+
 https://github.com/sindresorhus/leven
